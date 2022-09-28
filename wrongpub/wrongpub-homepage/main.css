@@ -1,0 +1,23 @@
+.jumbotron{
+    background-color: white;
+    padding: 0.01px;
+}
+#logo {
+    height: 200px;
+    width: 200px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+
+}
+.navbar{
+    box-shadow: rgba(240, 46, 170, 0.4) 0px 5px, rgba(240, 46, 170, 0.3) 0px 10px, rgba(240, 46, 170, 0.2) 0px 15px; 
+   padding: 20px;
+   background-attachment: fixed;
+   background-color:rgb(252, 137, 187) ;
+   
+}
+.navbar a{
+    color: yellow;
+    text-decoration: none;
+}
