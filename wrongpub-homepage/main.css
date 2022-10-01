@@ -3,8 +3,8 @@
     padding: 0.01px;
 }
 #logo {
-    height: 200px;
-    width: 200px;
+    height: 180px;
+    width: 180px;
     margin-top: 0px;
     margin-bottom: 0px;
     padding: 0px;
@@ -15,6 +15,7 @@
    padding: 20px;
    background-attachment: fixed;
    background-color:rgb(252, 137, 187) ;
+   
    
 }
 .navbar a{

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "wrongpub",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wrongpub"
+	}
+}
