@@ -47,3 +47,8 @@ ul {
     top: 0;
     width: 100%;
   }
+.intro{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+}
