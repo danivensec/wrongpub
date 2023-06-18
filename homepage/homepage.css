@@ -10,3 +10,31 @@ h1{
     color: #004921;
     
 }
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #004921;
+    
+}
+li  {
+    float: left;
+}
+li a{
+    display: block;
+    color: #FFF0E0;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+a{
+    display: block;
+    padding: 8px;
+
+}
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
