@@ -1,5 +1,12 @@
+body{
+    background-color: #FFF0E0;
+}
 header{
     text-align: center;
     font-family: 'Moirai One', cursive;
 }
-
+h1{
+    font-size: 100px;
+    color: #004921;
+    
+}
