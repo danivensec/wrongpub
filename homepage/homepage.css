@@ -2,14 +2,11 @@ body{
     background-image: url(/landing_page/monetLanding\ 1.png);
     margin: 0px;
 }
-header{
-    text-align: center;
-    font-family: 'Moirai One', cursive;
-}
-h1{
-    font-size: 100px;
-    color: #004921;
-    
+nav {
+    width: 1140px;
+    height: 150px; 
+    margin-top: -653px;
+    padding-left: -720px;
 }
 nav ul {
     display: flex;
@@ -22,7 +19,7 @@ ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #004921;
+    background-color: transparent;
     
     
 }
@@ -30,16 +27,21 @@ li  {
     float: left;
 }
 li a{
-    display: block;
-    color: #FFF0E0;
+    
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: 'Inter', sans-serif;
+
+    font-weight: 600;
+    size: 13px;
+    line-height: 15.73px;
     
 }
 a{
     display: block;
-    padding: 8px;
+    
 
 }
 ul {
@@ -47,12 +49,6 @@ ul {
     top: 0;
     width: 100%;
   }
-.intro{
-    text-align: center;
-    font-family: 'Oswald', sans-serif;
-    font-size: 35px;
-}
-.danielapfp{
-    width: 210px;
-    height: 220px;
-}
+  li:hover{
+    text-decoration: underline;
+  }
